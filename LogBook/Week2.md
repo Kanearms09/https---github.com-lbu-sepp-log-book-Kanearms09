@@ -40,3 +40,13 @@
 * **ps** - lists the running processes status
 
 * **kill** - Sends a kill signal to a process
+
+* **more** - Display file contents by pages
+
+* **rm** - Delete a file 
+
+* **mv** - Move a file
+
+* **cp** - Copy a file 
+
+* **rmdir** - Delete a directory
