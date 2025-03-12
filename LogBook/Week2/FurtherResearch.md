@@ -3,7 +3,7 @@
 
 #### Guido van Rossum
 
-**Born**: January 31, 1956
+**Born:** January 31, 1956
 
 **History:** Guido van Rossum is a Dutch programmer who studied mathematics and CompSci at the University of Amsterdam. He worked for organisations such as Google & Dropbox.
 
